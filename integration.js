@@ -13,5 +13,5 @@ function textBlock3(){
     col3.scrollIntoView(true);
 }
 function textBlock4(){
-    foot.scrollIntoView(true);
+    foot.scrollIntoView(false);
 }
